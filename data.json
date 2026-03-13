@@ -48,15 +48,17 @@
   ],
   "projects": [
     {
-      "name": "Saikat Rahman Json tree",
+      "name": "AutoParts BD",
       "favicon": "/images/projects/logos/jsontree.ico",
       "imageUrl": [
-        "/images/projects/jsontreeLight.webp",
-        "/images/projects/jsontreeDark.webp"
+        "https://raw.githubusercontent.com/iamsaikatrahman/autoparts/refs/heads/main/assets/output/p1.png",
+        "https://raw.githubusercontent.com/iamsaikatrahman/autoparts/refs/heads/main/assets/output/p2.png",
+        "https://raw.githubusercontent.com/iamsaikatrahman/autoparts/refs/heads/main/assets/output/p5.png",
+        "https://raw.githubusercontent.com/iamsaikatrahman/autoparts/refs/heads/main/assets/output/p6.png"
       ],
-      "description": "Visualize JSON data format in form of a tree or graph. Application is made using Nextjs, Tailwindcss and Monaco Editor. Design image can be downloaded from this app.",
-      "sourceCodeHref": "https://github.com/BUMBAIYA/jsontree",
-      "liveWebsiteHref": "https://jsontree.vercel.app"
+      "description": "Autoparts BD is a mobile application for all vehicle users. It is an online eCommerce and service provider application designed for all vehicle users. Using it, users will be able to easily buy the products they need. Without wasting time at a very low cost, users will be able to purchase car parts purchase through this app. Through this application, users will get many more services like a car wash, car maintenance, car repair which will make their daily life enjoyable and hassle-free.",
+      "sourceCodeHref": "https://github.com/iamsaikatrahman/autoparts/tree/main",
+      "liveWebsiteHref": "https://github.com/iamsaikatrahman/autoparts/tree/main"
     },
     {
       "name": "Kanban app",
