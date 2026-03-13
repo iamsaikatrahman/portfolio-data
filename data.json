@@ -2,30 +2,29 @@
   "projectShowcaseListItem": [
     {
       "index": 0,
-      "title": "Json Tree",
+      "title": "AutoParts BD",
       "href": "/projects",
-      "tags": ["Nextjs", "Tailwindcss", "Monaco Editor", "Vercel"],
+      "tags": ["Dart", "Flutter", "Firebase", "GitHub"],
       "image": {
-        "LIGHT": "/images/projects/jsontreeLight.webp",
-        "DARK": "/images/projects/jsontreeDark.webp"
+        "LIGHT": "https://raw.githubusercontent.com/iamsaikatrahman/autoparts/refs/heads/main/assets/output/p1.png",
+        "DARK": "https://raw.githubusercontent.com/iamsaikatrahman/autoparts/refs/heads/main/assets/output/p1.png"
       }
     },
     {
       "index": 1,
-      "title": "Many Games",
+      "title": "Tour Galaxy",
       "href": "/projects",
       "tags": [
-        "Reactjs",
-        "Tailwindcss",
-        "Scss",
-        "Vite",
-        "React-router-dom",
-        "Redux",
-        "Vercel"
+        "React",
+        "React Router",
+        "Firebase",
+        "Node",
+        "Express",
+        "Mongodb"
       ],
       "image": {
-        "LIGHT": "/images/projects/manyGamesLight.webp",
-        "DARK": "/images/projects/manyGamesDark.webp"
+        "LIGHT": "ttps://raw.githubusercontent.com/iamsaikatrahman/tour-galaxy/refs/heads/main/src/images/bannar.jpg",
+        "DARK": "ttps://raw.githubusercontent.com/iamsaikatrahman/tour-galaxy/refs/heads/main/src/images/bannar.jpg"
       }
     },
     {
@@ -57,34 +56,28 @@
         "https://raw.githubusercontent.com/iamsaikatrahman/autoparts/refs/heads/main/assets/output/p6.png"
       ],
       "description": "Autoparts BD is a mobile application for all vehicle users. It is an online eCommerce and service provider application designed for all vehicle users. Using it, users will be able to easily buy the products they need. Without wasting time at a very low cost, users will be able to purchase car parts purchase through this app. Through this application, users will get many more services like a car wash, car maintenance, car repair which will make their daily life enjoyable and hassle-free.",
-      "sourceCodeHref": "https://github.com/iamsaikatrahman/autoparts/tree/main",
-      "liveWebsiteHref": "https://github.com/iamsaikatrahman/autoparts/tree/main"
+      "sourceCodeHref": "https://github.com/iamsaikatrahman/autoparts",
+      "liveWebsiteHref": "https://github.com/iamsaikatrahman/autoparts"
     },
     {
-      "name": "Kanban app",
-      "favicon": "/images/projects/logos/kanban.ico",
+      "name": "Flutter Recipe",
+      "favicon": "/images/projects/logos/jsontree.ico",
       "imageUrl": [
-        "/images/projects/kanbanLight.webp",
-        "/images/projects/kanbanDark.webp",
-        "/images/projects/kanbanCardLight.webp"
+        "https://user-images.githubusercontent.com/75200754/114163202-ba2c6280-994b-11eb-81a3-3f4089a9c5ea.png"
       ],
-      "description": "Keep track of projects and tasks in different categories. Drag and drop card from tables. Assign user and priority to task and many more features. This app is made using Reactjs, Typescript, Tailwindcss and React-beautiful-dnd library.",
-      "sourceCodeHref": "https://github.com/BUMBAIYA/kanban",
-      "liveWebsiteHref": "https://kannban-board.vercel.app"
+      "description": "It is a Recipe app. In this app, I collect all data from the free API \"TheMealDB\". Here users can see the random recipes. Users can show various categories and countries recipes. Users can search for any recipe. For searching, users can use cool filter features. These filter features help the user easily find what he/she wants. Users can see full details about recipes ingredients, instructions, and also youtube videos. I follow the MVC pattern for writing code for this Recipe app. I use flutter cool scrolling features that why when users scroll down they can show a floating action button that actually helps to jump bottom to top.",
+      "sourceCodeHref": "https://github.com/iamsaikatrahman/flutter_recipe",
+      "liveWebsiteHref": "https://github.com/iamsaikatrahman/flutter_recipe"
     },
     {
-      "name": "Many Games",
-      "favicon": "/images/projects/logos/manygames.ico",
+      "name": "Tour Galaxy",
+      "favicon": "/images/projects/logos/jsontree.ico",
       "imageUrl": [
-        "/images/projects/manyGamesDark.webp",
-        "/images/projects/manyGamesLight.webp",
-        "/images/projects/manyGames2048.webp",
-        "/images/projects/manyGamesPuzzle.webp",
-        "/images/projects/manyGamesWordle.webp"
+        "https://raw.githubusercontent.com/iamsaikatrahman/tour-galaxy/refs/heads/main/src/images/bannar.jpg"
       ],
-      "description": "Many short and fun games using Reactjs, Typescript and Tailwindcss with collaboration with other developers",
-      "sourceCodeHref": "https://github.com/BUMBAIYA/ManyGames",
-      "liveWebsiteHref": "https://manygames.vercel.app"
+      "description": "This is a tourism related website Tour Galaxy. Here have tour plan, tour booking. You can see our tour news our client reviews. For developing this is a beautiful website I use React Js.",
+      "sourceCodeHref": "https://github.com/iamsaikatrahman/tour-galaxy",
+      "liveWebsiteHref": "https://tour-galaxy.web.app/"
     },
     {
       "name": "My portfolio",
