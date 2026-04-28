@@ -80,15 +80,14 @@
       "liveWebsiteHref": "https://tour-galaxy.web.app/"
     },
     {
-      "name": "My portfolio",
+      "name": "News Summarizer",
       "favicon": "/favicon.ico",
       "imageUrl": [
-        "/images/projects/portfolioDark.webp",
-        "/images/projects/portfolioLight.webp"
+        "https://bitcoinist.com/wp-content/uploads/2014/05/news-summary.png?fit=1058%2C596"
       ],
-      "description": "My personal portfolio website made using Nextjs, tailwindcss and framer motion.",
-      "sourceCodeHref": "https://github.com/BUMBAIYA/amitchauhan-v2",
-      "liveWebsiteHref": "https://amitchauhan.vercel.app"
+      "description": "A modern Blazor web application that leverages AI to summarize news articles quickly and efficiently. Just provide a news URL, and the app will generate a concise summary, categorize the news, and highlight key points.",
+      "sourceCodeHref": "https://github.com/iamsaikatrahman/newssummarizer",
+      "liveWebsiteHref": "https://github.com/iamsaikatrahman/newssummarizer"
     },
     {
       "name": "Devhabit Tracker",
