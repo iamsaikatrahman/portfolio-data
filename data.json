@@ -31,12 +31,7 @@
       "index": 2,
       "title": "News Summarizer",
       "href": "/projects",
-      "tags": [
-        "Blazor (.NET)",
-        "C#",
-        "Grok AI API",
-        "HttpClient"
-      ],
+      "tags": ["Blazor (.NET)", "C#", "Grok AI API", "HttpClient"],
       "image": {
         "LIGHT": "https://bitcoinist.com/wp-content/uploads/2014/05/news-summary.png?fit=1058%2C596",
         "DARK": "https://bitcoinist.com/wp-content/uploads/2014/05/news-summary.png?fit=1058%2C596"
@@ -92,7 +87,6 @@
       "favicon": "/images/projects/logos/jsontree.ico",
       "imageUrl": [
         "https://cdn.prod.website-files.com/5d3aa39f8474c472841a7dfc/647f5daa8446c87626bbfe23_Frame%2044%20(1).png"
-        
       ],
       "description": "Get latest covid related stats in a table where user can filter using country and cases. It also has a map which show every countries data for quick view. It uses an open source api (disease.sh). Made using Reactjs, Javascript and MUI",
       "sourceCodeHref": "https://github.com/iamsaikatrahman/devhabit",
@@ -110,6 +104,55 @@
       "description": "Get prediction of opening and closing price of stocks price. Frontend is made using Reactjs and backend is made using Flask and Machine learning model are trained using Tensorflow",
       "sourceCodeHref": "https://github.com/Rohrschachh/Stock-Market-Predictor",
       "liveWebsiteHref": "https://jsontree.vercel.app"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Software Engineer",
+      "organisation": {
+        "name": "Advanced Software Development",
+        "href": "https://asdbd.com/"
+      },
+      "date": "Oct 2023 - Present",
+      "location": "Banani, Dhaka",
+      "exdescription": [
+        "• Design, develop, test, and deploy robust and scalable ERP software solutions using .NET Core technologies.",
+        "• Implement RESTful APIs and microservices architecture to ensure seamless communication between components.",
+        "• Write clean, maintainable, and efficient code following SOLID principles and clean architecture.",
+        "• Integrate with third-party services and APIs using standard protocols like OAuth, JWT, or custom authentication mechanisms.",
+        "• Worked with relational (SQL Server) and non-relational (MongoDB) databases, including database design, perfor mance optimization, and query tuning.",
+        "• Collaborated with product managers, UI/UX designers, QA engineers, and developers to deliver high-quality features.",
+        "• Involved in ERP system development and implementation, along with banking and fintech software development."
+      ]
+    },
+    {
+      "title": "Jr. Software Engineer",
+      "organisation": {
+        "name": "Trillion Bits",
+        "href": "https://www.trillionbits.com/"
+      },
+      "date": "Dec 2022 - Sep 2023",
+      "location": "Gulshan, Dhaka",
+      "exdescription": [
+        "• Design, develop, test, and deploy software applications using .NET Framework and related technologies using C#, ASP.NET",
+        "• Build and maintain web-based applications.",
+        "• Develop RESTful APIs and integrate them with external systems or services.",
+        "• Write clean, scalable, and reusable code following SOLID principles and best practices."
+      ]
+    },
+    {
+      "title": "Software Developer Intern",
+      "organisation": {
+        "name": "Summit Communications Ltd",
+        "href": "https://www.summitcommunications.net/"
+      },
+      "date": "April 2022 - Nov 2022",
+      "location": "Kawran bazar, Dhaka",
+      "exdescription": [
+        "• Developed Billing Collection System using C#, ASP.NET MVC, and jQuery.",
+        "• Implemented CRUD operations with SQL Stored Procedures and Dapper.",
+        "• Performed UAT, testing, bug reporting and documentation."
+      ]
     }
   ]
 }
