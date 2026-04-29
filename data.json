@@ -23,25 +23,23 @@
         "Mongodb"
       ],
       "image": {
-        "LIGHT": "ttps://raw.githubusercontent.com/iamsaikatrahman/tour-galaxy/refs/heads/main/src/images/bannar.jpg",
-        "DARK": "ttps://raw.githubusercontent.com/iamsaikatrahman/tour-galaxy/refs/heads/main/src/images/bannar.jpg"
+        "LIGHT": "https://raw.githubusercontent.com/iamsaikatrahman/tour-galaxy/refs/heads/main/src/images/bannar.jpg",
+        "DARK": "https://raw.githubusercontent.com/iamsaikatrahman/tour-galaxy/refs/heads/main/src/images/bannar.jpg"
       }
     },
     {
       "index": 2,
-      "title": "Kanban",
+      "title": "News Summarizer",
       "href": "/projects",
       "tags": [
-        "Reactjs",
-        "Vite",
-        "Tailwindcss",
-        "Vercel",
-        "Zustand",
-        "React DND"
+        "Blazor (.NET)",
+        "C#",
+        "Grok AI API",
+        "HttpClient"
       ],
       "image": {
-        "LIGHT": "/images/projects/kanbanLight.webp",
-        "DARK": "/images/projects/kanbanDark.webp"
+        "LIGHT": "https://bitcoinist.com/wp-content/uploads/2014/05/news-summary.png?fit=1058%2C596",
+        "DARK": "https://bitcoinist.com/wp-content/uploads/2014/05/news-summary.png?fit=1058%2C596"
       }
     }
   ],
